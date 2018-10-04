@@ -19,10 +19,7 @@ My role is CTO, I'm in charge of all IT related services, I both negotiated the 
 
 ## Achievements
 
-:speech_balloon: Huge network
-
-:star2: Self sufficient within 5 months of founding the company
-
-:boot: Bootstrapped startup with no funding
-
-:earth_africa: Worked with clients from 6 different countries (Finland, Netherlands, Spain, Germany, United States and Vietnam)
+* Huge network
+* Self sufficient within 5 months of founding the company
+* Bootstrapped startup with no funding
+* Worked with clients from 6 different countries (Finland, Netherlands, Spain, Germany, United States and Vietnam)
