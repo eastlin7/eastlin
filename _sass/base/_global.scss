@@ -108,6 +108,7 @@ a {
 // Responsive media
 iframe, img, embed, object, video {
   max-width: 100%;
+  display: block;
 }
 img[align=left] {
   margin-right: 3%;
