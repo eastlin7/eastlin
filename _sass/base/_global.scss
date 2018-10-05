@@ -1,5 +1,4 @@
-$break-small: 320px;
-$break-large: 1200px;
+$break-point: 800px;
 * {
   margin: 0;
   padding: 0;
@@ -111,11 +110,11 @@ a {
 // Responsive media
 iframe, img, embed, object, video {
   
-  @media screen and (max-width: $break-small) {
-    max-width: 70%;
-  }
-  @media screen and (min-width: $break-large) {
+  @media screen and (max-width: $break-point) {
     max-width: 100%;
+  }
+  @media screen and (min-width: $break-point) {
+    max-width: 70%;
   }
   display: block;
 }
