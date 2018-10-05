@@ -43,11 +43,18 @@
   background-size: $feature-image-size;
   border-bottom: 1px solid $border-color;
   li {
+    @media screen and (max-width: $break-point) {
+      display: inline-block;
+      margin-right:0.5%;
+      margin-left:0.5%;
+    }
+    @media screen and (min-width: $break-point) {
+      display: block;
+      margin-right: auto;
+      margin-left: auto;
+    }
     width: 32%;
-    margin-right:0.5%;
-    margin-left:0.5%;
     margin-bottom: 0;
-    display: inline-block;
     p a:hover {
       @extend %link-hover;
     }
