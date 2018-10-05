@@ -47,13 +47,14 @@
       display: inline-block;
       margin-right:0.5%;
       margin-left:0.5%;
+      width: 32%;
     }
     @media screen and (max-width: $break-point) {
       display: block;
       margin-right: auto;
       margin-left: auto;
+      width: 66%;
     }
-    width: 32%;
     margin-bottom: 0;
     p a:hover {
       @extend %link-hover;
