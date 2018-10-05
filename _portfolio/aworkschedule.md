@@ -3,7 +3,7 @@ layout: post
 title: Aurora WorkSchedule
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://i.imgur.com/6RxdXFg.png"
-short-description: BlocJams for iOS is awesome!
+short-description: Turn Excel Sheets into fully distributed WorkSchedules in 3 clicks.
 
 ---
 
