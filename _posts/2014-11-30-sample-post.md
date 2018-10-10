@@ -6,7 +6,7 @@ On a high level, project management is like managing a machine -you provide the 
 
 In this article I'd like to tell you about my approach to project management, mainly, regarding how I handle IT project management tasks or what I call the “The Box Approach”.
 
-![Gif of making beer](https://i.imgur.com/RWGAEy0.gifv)
+![Gif of making beer](https://i.imgur.com/RWGAEy0.gif)
 
 # The Box Approach
 
@@ -31,7 +31,7 @@ So how do you "show the result?" Luckily the internet has provided an endless so
 
 Using Balsamiq mockups, I'm personally able to create an interactive mockup that allows my team to see exactly what I want to have, and moreover they'll be able to use it and critique it. Here's an example of a very quick interactive mockup I did for this article.
 
-![Gif of interactive mockup](https://i.imgur.com/R9SrWM5.gifv)
+![Gif of interactive mockup](https://i.imgur.com/R9SrWM5.gif)
 
 
 Of course, just providing an interactive mockup of a user interface is not enough, more often than not, you'll want to explain the functionalities of each of those buttons you put on the design. For that purpose, I suggest using graphs. Personally I like to use yEd Graph Editor (it's free!) as it allows me to quickly create very detailed graphs. Here's a quick example of how i'd make a graph to explain the login logic for a website.
