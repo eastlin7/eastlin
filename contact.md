@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: not_used
 title: Contact
 permalink: /contact/
 feature-img: "img/color.png"
