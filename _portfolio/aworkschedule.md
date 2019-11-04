@@ -3,8 +3,7 @@ layout: post
 title: Aurora WorkSchedule
 feature-img: "img/sample_feature_img.png"
 thumbnail-path: "https://i.imgur.com/6RxdXFg.png"
-short-description: Turn Excel Sheets into fully distributed WorkSchedules in 3 clicks.
-
+short-description: App that turns Excel Sheets into WorkSchedules.
 ---
 
 
@@ -17,14 +16,42 @@ We built a progressive web app which allows managers to simply upload the excel 
 
 ## Tech stack
 
-Frontend: ReactJS
+**Frontend:** ReactJS
 
-Backend: ExpressJS
+**Backend:** ExpressJS with Firebase as a Backend as a service to provide things such as database & Authentication.
 
 
 ## Project In details
+This project had two goals.
 
-### Excel, CSV & Simplicity Into Json
+1. Improve my skills in React JS
+2. To build something with real world application
+
+
+
+
+
+###  Turning an excel sheet into a scalable workschedule
+
+
+### White labeling
+
+As my intended customer group were larger companies, I put great efforts into ensuring that the webapp's interface could easily be customized to different brands. 
+
+
+![Fazer example](https://i.imgur.com/4xLd6zq.png)
+
+![Standard](https://i.imgur.com/b3N53gl.png)
+
+
+
+### Responsive to the core
+
+As I wanted to make this project as robust as possible, I ensured that all parts of the webapp was completly responsive to fit any screen or device.
+
+![Gif of responsiveness](https://i.imgur.com/Sozt9gX.gif)
+
+
 
 ## Achievements
 
