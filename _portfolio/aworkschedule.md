@@ -9,15 +9,22 @@ short-description: Turn Excel Sheets into fully distributed WorkSchedules in 3 c
 
 
 # Overview
-Aurora WorkSchedule was the first venture we at Aurora Digital went through, we had a contact in a company that were housing up to 400 maintanence workers and they were distributing their work schedules by printing out excel sheets and hanging them on the wall. 
+Aurora WorkSchedule was the first project we at Aurora Digital went through, we had a contact in a company that were housing up to 400 maintanence workers and they were distributing their work schedules by printing out excel sheets and hanging them on the wall. 
 
 We built a progressive web app which allows managers to simply upload the excel sheet and have it distributed to the entire workforce in seconds.
+
+> Our solution was not only very robust, it was elegant in it's simplicity
 
 ## Tech stack
 
 Frontend: ReactJS
 
 Backend: ExpressJS
+
+
+## Project In details
+
+### Excel, CSV & Simplicity Into Json
 
 ## Achievements
 
